@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define MOTOR_CTRL_PIN 25
+#define MOTOR_CTRL_PIN 26
 #define BUTTON_PIN     27
 
 #ifdef DEBUG_MODE
